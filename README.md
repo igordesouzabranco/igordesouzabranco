@@ -27,7 +27,7 @@ Sou um desenvolvedor em início de carreira focado em Python. Gosto de criar sol
   - Repo: https://github.com/igordesouzabranco/SistemaLoginTkinter.git
 
 - ModeloAgendamentoBarbearia  
-  - Modelo/protótipo de agendamento para barbearia — gerenciamento local de clientes e horários.  
+  - Modelo/protótipo de agendamento para barbearia — gerenciamento local de clientes e serviços.  
   - Repo: https://github.com/igordesouzabranco/ModeloAgendamentoBarbearia.git  
   - Arquivo de entrada: `appBarber.py`
 
