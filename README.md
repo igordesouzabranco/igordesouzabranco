@@ -7,6 +7,8 @@ Desenvolvedor Python (iniciante) — atencioso, observador e com facilidade de a
 ## Sobre mim
 Sou um desenvolvedor em início de carreira focado em Python. Gosto de criar soluções simples e funcionais, com atenção aos detalhes e empatia pelo usuário. Atualmente estudo Java para ampliar minhas habilidades.
 
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igordesouzabranco&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 Atualmente: desenvolvendo projetos em Python e estudando Java  
 - 🌱 Em crescimento: boas práticas, testes, interfaces gráficas (Tkinter) e manipulação de dados (Pandas)  
 - ⚡ Valores: código legível, usabilidade e colaboração
