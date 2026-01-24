@@ -8,9 +8,7 @@
 ---
 
 
-![](https://leetcard.igordesouzabranco/leetcode?site=us)
 
----
 # Sobre mim
 Sou um desenvolvedor em início de carreira focado em Python. Gosto de criar soluções simples e funcionais, com atenção aos detalhes e sempre pensando no usuário. 
 
