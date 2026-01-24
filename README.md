@@ -2,11 +2,15 @@
 
 # Olá — eu sou Igor de Souza Branco 👋
 
-> Desenvolvedor Python (iniciante) 
+> Desenvolvedor Python (iniciante)
 
 
 ---
 
+
+![](https://leetcard.igordesouzabranco/leetcode?site=us)
+
+---
 # Sobre mim
 Sou um desenvolvedor em início de carreira focado em Python. Gosto de criar soluções simples e funcionais, com atenção aos detalhes e sempre pensando no usuário. 
 
@@ -89,6 +93,8 @@ Atualmente estudo Java (ver. 25), e curso Técnico em Desenvolvimento de sistema
 
 #### Licença
 Este projeto está licenciado sob a Licença MIT — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
 
 _Last updated: 2026-01-03_
 -->
