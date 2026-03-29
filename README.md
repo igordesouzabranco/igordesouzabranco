@@ -11,8 +11,7 @@
 
 # Sobre mim
 Sou um desenvolvedor em início de carreira focado em Python. Gosto de criar soluções simples e funcionais, com atenção aos detalhes e sempre pensando no usuário. 
-
-Atualmente estudo Java (ver. 25), e curso Técnico em Desenvolvimento de sistemas na Unicesumar.
+Em breve, planejo estudar Javascript. Atualmente estudo Python, e curso Técnico em Desenvolvimento de sistemas na Unicesumar.
 
 - 🔭 No momento: desenvolvo projetos em Python e Java  
 - 🌱 Em evolução: CustomTkinter, Pandas  
