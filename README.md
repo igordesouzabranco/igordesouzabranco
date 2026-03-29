@@ -14,7 +14,7 @@ Sou um desenvolvedor em início de carreira focado em Python. Gosto de criar sol
 
 Em breve, planejo estudar Javascript. Atualmente estudo Python, e curso Técnico em Desenvolvimento de sistemas na Unicesumar.
 
-- 🔭 No momento: desenvolvo projetos em Python e Java  
+- 🔭 No momento: desenvolvo projetos em Python
 - 🌱 Em evolução: CustomTkinter, Pandas  
 - ⚡ Valores: código legível, usabilidade e colaboração.
 
