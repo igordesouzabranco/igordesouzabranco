@@ -22,7 +22,7 @@ Atualmente estudo Java (ver. 25), e curso Técnico em Desenvolvimento de sistema
 
 # Linguagens:
  ![Static Badge](https://img.shields.io/badge/python_3.14-lightblue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)
- ![Static Badge](https://img.shields.io/badge/Java_25-blue?style=for-the-badge&logo=java)
+
 
 
 # Ferramentas favoritas: 
