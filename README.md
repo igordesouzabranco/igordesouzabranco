@@ -1,84 +1,21 @@
+# 🧑🏻‍💻 Sobre Mim:
+Desenvolvedor em início de carreira focado em Python e Javascript. Gosto de criar soluções simples e funcionais, com atenção aos detalhes e sempre pensando no usuário.
 
 
-# Olá — eu sou Igor de Souza Branco 👋
+## 🌐 Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Igor de Souza Branco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:igordesouzabranco@gmail.com) 
 
-> Desenvolvedor Python (iniciante)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=igordesouzabranco&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=igordesouzabranco&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=igordesouzabranco&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-
-
-# Sobre mim
-Sou um desenvolvedor em início de carreira focado em Python. Gosto de criar soluções simples e funcionais, com atenção aos detalhes e sempre pensando no usuário.                        
-
-No futuro, planejo estudar Javascript. Atualmente estudo Python, e curso Técnico em Desenvolvimento de sistemas na Unicesumar.
-
-- 🔭 No momento: desenvolvo projetos em Python
-- 🌱 Em evolução: CustomTkinter, Pandas  
-- ⚡ Valores: código legível, usabilidade e colaboração.
-
----
-
-# Linguagens:
- ![Static Badge](https://img.shields.io/badge/python_3.14-lightblue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)
-
-
-
-# Ferramentas favoritas: 
- ![Static Badge](https://img.shields.io/badge/sqlite-darkblue?style=for-the-badge&logo=sqlite&logoColor=darkblue&labelColor=white)
- ![Static Badge](https://img.shields.io/badge/Tkinter-gray?style=for-the-badge&logo=tkinter) ![Static Badge](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&labelColor=black)
-
-
-
-
-# Soft skills: 
- ![Static Badge](https://img.shields.io/badge/Atencioso-black?style=for-the-badge&logoColor=yellow&labelColor=blue) ![Static Badge](https://img.shields.io/badge/%20Observador-black?style=for-the-badge&logoColor=yellow&labelColor=blue) ![Static Badge](https://img.shields.io/badge/F%C3%A1cil_aprendizagem-black?style=for-the-badge&logoColor=yellow&labelColor=blue) ![Static Badge](https://img.shields.io/badge/Flex%C3%ADvel-black?style=for-the-badge&logoColor=yellow&labelColor=blue)
-
-
-
-  
-
----
-
-# Projetos em destaque:
-
-## SistemaLoginTkinter (v2.0)  
->  Protótipo de sistema de login com interface em Tkinter. Versão 2.0 com interface aprimorada e uso de ComboBox para seleção quando aplicável. Persistência local em SQLite.  
- - Repo: https://github.com/igordesouzabranco/SistemaLoginTkinter.git
-
-## ModeloAgendamentoBarbearia  
-> Modelo/protótipo de agendamento para barbearia — gerenciamento local de clientes e serviços.  
- - Repo: https://github.com/igordesouzabranco/ModeloAgendamentoBarbearia.git  
- - Arquivo de entrada: `appBarber.py`
-
----
-
-# Executar (exemplo rápido)
-1. Clone o repositório:
-   - git clone https://github.com/igordesouzabranco/ModeloAgendamentoBarbearia.git
-   - git clone https://github.com/igordesouzabranco/SistemaLoginTkinter.git
-2. Entre na pasta do projeto desejado e crie/ative um ambiente virtual:
-   - python -m venv .venv
-   - source .venv/bin/activate  (Linux / macOS)
-   - .venv\Scripts\activate      (Windows)
-3. Execute a aplicação:
-   - python appBarber.py  (para ModeloAgendamentoBarbearia)
-   - verificar o arquivo de entrada do SistemaLoginTkinter e executá-lo (ex.: python main.py)
-
-### Requisitos mínimos!
-- Python 3.8+
-- Tkinter geralmente vem com o Python; 
-(em algumas distros Linux instale o package `python3-tk`)
-
----
-
-# Contato
-- Email: igordesouzabranco@gmail.com  
-- Linktree: https://linktr.ee/igordesouzabranco
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
