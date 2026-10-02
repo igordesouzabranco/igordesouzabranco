@@ -49,6 +49,11 @@ igor@dev:~$ status --disponibilidade
 
 ---
 
+Psiu! Rode no terminal:
+``` bash 
+npx igor-portfolio
+```
+
 #### Licença
 Este projeto está licenciado sob a Licença MIT — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
