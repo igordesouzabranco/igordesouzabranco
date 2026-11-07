@@ -10,7 +10,7 @@ igor@dev:~$ cat prioridades.txt
 > Código simples · Funcional · Atenção aos detalhes · Foco no usuário
 
 igor@dev:~$ status --disponibilidade
-> ✅ Open to work
+> Trabalhando na Appmax!
 ```
 
 ## 🌐 Contato
