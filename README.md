@@ -1,6 +1,6 @@
  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=34&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=850&height=80&lines=Ol%C3%A1,%20eu%20sou%20o%20Igor%20%F0%9F%91%8B;Desenvolvedor%20Python%20%26%20JavaScript;Crio%20solu%C3%A7%C3%B5es%20simples%20e%20funcionais;Aberto%20a%20novas%20oportunidades" alt="Typing SVG" /> 
 
-## 🧑🏻‍💻 Sobre mim
+# Sobre mim
 
 ```bash
 igor@dev:~$ whoami
@@ -13,17 +13,17 @@ igor@dev:~$ status --disponibilidade
 > Trabalhando na Appmax!
 ```
 
-## 🌐 Contato
+# Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-de-souza-branco-b68630314/)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igordesouzabranco@gmail.com)
 
-## 🧑🏻‍💻 Sites
+# Sites
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-34D399?style=for-the-badge&logo=netlify&logoColor=000000)](https://portifolioigordesouza.netlify.app/) [![XP Portfolio](https://img.shields.io/badge/XP%20Portfolio-0A246A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0YyNTAyMiIgZD0iTTMgNC41QzUuNSAzLjMgOCAzLjMgMTAuNSA0LjVMOS41IDEwLjVDNy41IDkuNyA1IDkuNyAyLjUgMTAuN1oiLz48cGF0aCBmaWxsPSIjN0ZCQTAwIiBkPSJNMTEuNSA0LjhDMTQgNS44IDE3IDUuOCAyMCA0LjJMMTkgMTAuMkMxNi41IDExLjIgMTMuNSAxMS4yIDEwLjUgMTAuMloiLz48cGF0aCBmaWxsPSIjMDBBNEVGIiBkPSJNMi4yIDEyLjRDNC43IDExLjQgNy4yIDExLjQgOS4yIDEyLjJMOC4yIDE4LjRDNi4yIDE3LjYgNCAxNy42IDEuNSAxOC42WiIvPjxwYXRoIGZpbGw9IiNGRkI5MDAiIGQ9Ik0xMC4yIDEyLjRDMTMgMTMuNCAxNiAxMy40IDE4LjggMTIuMkwxNy44IDE4LjRDMTUgMTkuNiAxMi4yIDE5LjYgOS4yIDE4LjRaIi8%2BPC9zdmc%2BCg%3D%3D)](https://xp-portfolio-igorbranco.netlify.app/)
 
 
-## 💻 Tech Stack
+# Tech Stack
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
@@ -39,22 +39,16 @@ igor@dev:~$ status --disponibilidade
 
 
 
-## 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=igordesouzabranco&hide_border=false&include_all_commits=true&count_private=false&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=33FF33&border_color=00FF41)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=igordesouzabranco&hide_border=false&layout=compact&include_all_commits=true&count_private=false&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=33FF33&border_color=00FF41)
-
-### ✍️ Frase aleatória de dev
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=hackerman)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
 ### Informações pessoais
 - 📍 Localização: Brasil (GMT-3)
 - 🔤 Pronomes: Ele / Dele
-- 💼 Disponibilidade: Open to work
 
 ---
 
