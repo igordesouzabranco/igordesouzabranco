@@ -17,29 +17,11 @@ igor@dev:~$ cat objetivo.txt
 > crescer como dev e conquistar a primeira vaga júnior, construindo
 > ferramentas que eu mesmo usaria no dia a dia
 
+igor@dev:~$ echo $MASCOTE
+> 🐍
 ```
 
 <br />
-
-## `~/contato`
-
-<p>
-  <a href="https://www.linkedin.com/in/igor-de-souza-branco-b68630314/"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=2bff2b" alt="LinkedIn" /></a>
-  <a href="mailto:igordesouzabranco@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=2bff2b" alt="Email" /></a>
-  <a href="https://portifolioigordesouza.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0f0a?style=for-the-badge&logo=netlify&logoColor=2bff2b" alt="Portfólio" /></a>
-  <a href="https://xp-portfolio-igorbranco.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio%20XP-0a0f0a?style=for-the-badge&logo=windowsxp&logoColor=2bff2b" alt="Portfólio XP" /></a>
-</p>
-
-</br>
-
-## `~/stack`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,html,css,php&theme=dark" alt="Linguagens" /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,react,nextjs,laravel&theme=dark" alt="Frameworks" /><br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="Bancos de dados" /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,netlify&theme=dark" alt="Ferramentas" />
-</p>
 
 ## `~/projetos`
 
@@ -99,6 +81,16 @@ igor@dev:~$ cat objetivo.txt
 
 <sub>O resto está nos <a href="https://github.com/igordesouzabranco?tab=repositories">repositórios</a>.</sub>
 
+<br />
+
+## `~/stack`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,html,css&theme=dark" alt="Linguagens" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,react,nextjs&theme=dark" alt="Frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="Bancos de dados" /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,netlify&theme=dark" alt="Ferramentas" />
+</p>
 
 <br />
 
@@ -142,12 +134,24 @@ quadrinhos = "Marvel"
 
 <br />
 
+## `~/contato`
+
+<p>
+  <a href="https://www.linkedin.com/in/igor-de-souza-branco-b68630314/"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=2bff2b" alt="LinkedIn" /></a>
+  <a href="mailto:igordesouzabranco@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=2bff2b" alt="Email" /></a>
+  <a href="https://portifolioigordesouza.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0f0a?style=for-the-badge&logo=netlify&logoColor=2bff2b" alt="Portfólio" /></a>
+  <a href="https://xp-portfolio-igorbranco.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio%20XP-0a0f0a?style=for-the-badge&logo=windowsxp&logoColor=2bff2b" alt="Portfólio XP" /></a>
+</p>
+
+<br />
+
 <div align="center">
 
-Psiu! Rode isso no terminal e conheça meu portfólio por dentro.
 ```bash
 igor@dev:~$ npx igor-portfolio
 ```
+
+<sub>Psiu! Rode isso no terminal e conheça meu portfólio por dentro. 🐍</sub>
 
 <br />
 
