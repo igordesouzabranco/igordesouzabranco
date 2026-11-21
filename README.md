@@ -20,6 +20,23 @@ igor@dev:~$ cat objetivo.txt
 igor@dev:~$ echo $MASCOTE
 > 🐍
 ```
+## `~/contato`
+
+<p>
+  <a href="https://www.linkedin.com/in/igor-de-souza-branco-b68630314/"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=2bff2b" alt="LinkedIn" /></a>
+  <a href="mailto:igordesouzabranco@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=2bff2b" alt="Email" /></a>
+  <a href="https://portifolioigordesouza.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0f0a?style=for-the-badge&logo=netlify&logoColor=2bff2b" alt="Portfólio" /></a>
+  <a href="https://xp-portfolio-igorbranco.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio%20XP-0a0f0a?style=for-the-badge&logo=windowsxp&logoColor=2bff2b" alt="Portfólio XP" /></a>
+</p>
+
+## `~/stack`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,html,css,php&theme=dark" alt="Linguagens" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,react,nextjs,laravel&theme=dark" alt="Frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="Bancos de dados" /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,netlify&theme=dark" alt="Ferramentas" />
+</p>
 
 <br />
 
@@ -83,16 +100,6 @@ igor@dev:~$ echo $MASCOTE
 
 <br />
 
-## `~/stack`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,html,css&theme=dark" alt="Linguagens" /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,react,nextjs&theme=dark" alt="Frameworks" /><br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="Bancos de dados" /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,netlify&theme=dark" alt="Ferramentas" />
-</p>
-
-<br />
 
 ## `~/stats`
 
@@ -114,7 +121,7 @@ trabalhando: jovem aprendiz na Appmax
 construindo:
   - snakit, evoluindo comando por comando
   - automações com GitHub Actions + Make
-  - portfólios (um no terminal, outro com cara de Windows XP)
+  - portfólios (um no terminal, um em site e outro com cara de Windows XP)
 ```
 
 <br />
@@ -128,30 +135,20 @@ linux          = "curioso por Arch + Hyprland"
 hardware       = "retro handhelds, upgrades e gambiarras"
 
 [fora-do-codigo]
-jogos      = ["League of Legends (Xerath ADC)", "Honkai: Star Rail", "NieR: Automata"]
-quadrinhos = "Marvel"
+jogos      = ["League of Legends (Mono Bel'veth)", "Plague Tale", "Hellblade"]
 ```
 
 <br />
 
-## `~/contato`
-
-<p>
-  <a href="https://www.linkedin.com/in/igor-de-souza-branco-b68630314/"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=2bff2b" alt="LinkedIn" /></a>
-  <a href="mailto:igordesouzabranco@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=2bff2b" alt="Email" /></a>
-  <a href="https://portifolioigordesouza.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0f0a?style=for-the-badge&logo=netlify&logoColor=2bff2b" alt="Portfólio" /></a>
-  <a href="https://xp-portfolio-igorbranco.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio%20XP-0a0f0a?style=for-the-badge&logo=windowsxp&logoColor=2bff2b" alt="Portfólio XP" /></a>
-</p>
-
-<br />
 
 <div align="center">
+
+<sub>Psiu! Rode isso no terminal e conheça meu portfólio por dentro. 🐍</sub>
 
 ```bash
 igor@dev:~$ npx igor-portfolio
 ```
 
-<sub>Psiu! Rode isso no terminal e conheça meu portfólio por dentro. 🐍</sub>
 
 <br />
 
