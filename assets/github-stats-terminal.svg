@@ -48,7 +48,7 @@
     <g class="a" style="animation-delay:2.05s">
       <text x="54" y="142" class="w">total_commits</text>
       <line x1="200" y1="138" x2="320" y2="138" stroke="#2bff2b" stroke-opacity="0.35" stroke-dasharray="1 5" stroke-linecap="round"/>
-      <text x="345" y="142" text-anchor="end" class="g">345</text>
+      <text x="345" y="142" text-anchor="end" class="g">354</text>
     </g>
     <g class="a" style="animation-delay:2.20s">
       <text x="54" y="168" class="w">pull_requests</text>
@@ -83,38 +83,38 @@
   <g class="a" style="animation-delay:4.3s">
     <text x="54" y="304" class="w s">JavaScript</text>
     <rect x="170" y="293" width="500" height="12" rx="2" fill="#0f2a0f"/>
-    <rect x="170" y="293" width="332.57" height="12" rx="2" fill="#2bff2b" filter="url(#glow)"><animate attributeName="width" from="0" to="332.57" dur="1s" begin="4.3s" fill="freeze"/></rect>
-    <text x="690" y="304" class="g s">66.51%</text>
+    <rect x="170" y="293" width="318.52" height="12" rx="2" fill="#2bff2b" filter="url(#glow)"><animate attributeName="width" from="0" to="318.52" dur="1s" begin="4.3s" fill="freeze"/></rect>
+    <text x="690" y="304" class="g s">63.70%</text>
   </g>
   <g class="a" style="animation-delay:4.5s">
     <text x="54" y="330" class="w s">CSS</text>
     <rect x="170" y="319" width="500" height="12" rx="2" fill="#0f2a0f"/>
-    <rect x="170" y="319" width="66.58" height="12" rx="2" fill="#1fe0a0" filter="url(#glow)"><animate attributeName="width" from="0" to="66.58" dur="1s" begin="4.5s" fill="freeze"/></rect>
-    <text x="690" y="330" class="g s">13.32%</text>
+    <rect x="170" y="319" width="64.80" height="12" rx="2" fill="#1fe0a0" filter="url(#glow)"><animate attributeName="width" from="0" to="64.80" dur="1s" begin="4.5s" fill="freeze"/></rect>
+    <text x="690" y="330" class="g s">12.96%</text>
   </g>
   <g class="a" style="animation-delay:4.7s">
     <text x="54" y="356" class="w s">HTML</text>
     <rect x="170" y="345" width="500" height="12" rx="2" fill="#0f2a0f"/>
-    <rect x="170" y="345" width="40.56" height="12" rx="2" fill="#00d9ff" filter="url(#glow)"><animate attributeName="width" from="0" to="40.56" dur="1s" begin="4.7s" fill="freeze"/></rect>
-    <text x="690" y="356" class="g s">8.11%</text>
+    <rect x="170" y="345" width="38.22" height="12" rx="2" fill="#00d9ff" filter="url(#glow)"><animate attributeName="width" from="0" to="38.22" dur="1s" begin="4.7s" fill="freeze"/></rect>
+    <text x="690" y="356" class="g s">7.64%</text>
   </g>
   <g class="a" style="animation-delay:4.9s">
     <text x="54" y="382" class="w s">Python</text>
     <rect x="170" y="371" width="500" height="12" rx="2" fill="#0f2a0f"/>
-    <rect x="170" y="371" width="40.55" height="12" rx="2" fill="#3aa0ff" filter="url(#glow)"><animate attributeName="width" from="0" to="40.55" dur="1s" begin="4.9s" fill="freeze"/></rect>
-    <text x="690" y="382" class="g s">8.11%</text>
+    <rect x="170" y="371" width="38.21" height="12" rx="2" fill="#3aa0ff" filter="url(#glow)"><animate attributeName="width" from="0" to="38.21" dur="1s" begin="4.9s" fill="freeze"/></rect>
+    <text x="690" y="382" class="g s">7.64%</text>
   </g>
   <g class="a" style="animation-delay:5.1s">
-    <text x="54" y="408" class="w s">EJS</text>
+    <text x="54" y="408" class="w s">PHP</text>
     <rect x="170" y="397" width="500" height="12" rx="2" fill="#0f2a0f"/>
-    <rect x="170" y="397" width="9.38" height="12" rx="2" fill="#7a7cff" filter="url(#glow)"><animate attributeName="width" from="0" to="9.38" dur="1s" begin="5.1s" fill="freeze"/></rect>
-    <text x="690" y="408" class="g s">1.88%</text>
+    <rect x="170" y="397" width="22.38" height="12" rx="2" fill="#7a7cff" filter="url(#glow)"><animate attributeName="width" from="0" to="22.38" dur="1s" begin="5.1s" fill="freeze"/></rect>
+    <text x="690" y="408" class="g s">4.48%</text>
   </g>
   <g class="a" style="animation-delay:5.3s">
-    <text x="54" y="434" class="w s">Java</text>
+    <text x="54" y="434" class="w s">EJS</text>
     <rect x="170" y="423" width="500" height="12" rx="2" fill="#0f2a0f"/>
-    <rect x="170" y="423" width="8.57" height="12" rx="2" fill="#b36bff" filter="url(#glow)"><animate attributeName="width" from="0" to="8.57" dur="1s" begin="5.3s" fill="freeze"/></rect>
-    <text x="690" y="434" class="g s">1.71%</text>
+    <rect x="170" y="423" width="8.84" height="12" rx="2" fill="#b36bff" filter="url(#glow)"><animate attributeName="width" from="0" to="8.84" dur="1s" begin="5.3s" fill="freeze"/></rect>
+    <text x="690" y="434" class="g s">1.77%</text>
   </g>
 
   <g class="a" style="animation-delay:5.8s" filter="url(#glow)">
@@ -122,6 +122,6 @@
     <rect x="142" y="452" width="9" height="16" fill="#2bff2b">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
-    <text x="170" y="466" class="d s"># atualizado em 21/11/2026</text>
+    <text x="170" y="466" class="d s"># atualizado em 22/11/2026</text>
   </g>
 </svg>
