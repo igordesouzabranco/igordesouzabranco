@@ -5,13 +5,14 @@
       <feGaussianBlur stdDeviation="1.6" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="softglow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
+    <filter id="glowsm" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="0.6" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <linearGradient id="body" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#0f8f4f"/>
-      <stop offset="1" stop-color="#2bff2b"/>
+    <linearGradient id="snakeg" gradientUnits="userSpaceOnUse" x1="0" y1="92" x2="0" y2="322">
+      <stop offset="0" stop-color="#4dff6a"/>
+      <stop offset="0.55" stop-color="#2bff2b"/>
+      <stop offset="1" stop-color="#0f9f4a"/>
     </linearGradient>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
       <rect width="4" height="1" fill="#2bff2b" opacity="0.05"/>
@@ -31,10 +32,8 @@
     .b { font-weight: 700; }
     @keyframes fi { from { opacity: 0; } to { opacity: 1; } }
     .a { animation: fi .4s ease-out both; }
-    @keyframes slither { to { stroke-dashoffset: -64; } }
-    .scales { stroke-dasharray: 2 14; animation: slither 3s linear infinite; }
-    @keyframes flick { 0%, 70%, 100% { opacity: 0; } 78%, 92% { opacity: 1; } }
-    .tongue { animation: flick 3s ease-in-out infinite; }
+    .asc { opacity: 0; animation: fi .3s ease-out forwards; }
+    .r { fill: #ff4d6d; }
     @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
     .live { animation: pulse 1.6s ease-in-out infinite; }
   </style>
@@ -53,18 +52,33 @@
     <text x="34" y="74"><tspan class="g">igor@dev</tspan><tspan class="c">:~$</tspan><tspan class="w"> neofetch</tspan></text>
   </g>
 
-  <!-- cobra -->
-  <g class="a" style="animation-delay:.9s" filter="url(#softglow)">
-    <path d="M60 300 C60 255 150 265 165 235 S95 190 150 165 S245 175 245 135" fill="none" stroke="url(#body)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
-    <path class="scales" d="M60 300 C60 255 150 265 165 235 S95 190 150 165 S245 175 245 135" fill="none" stroke="#050805" stroke-opacity="0.55" stroke-width="5" stroke-linecap="round"/>
-    <!-- cabeça -->
-    <ellipse cx="245" cy="122" rx="15" ry="19" fill="url(#body)"/>
-    <circle cx="238" cy="117" r="3.6" fill="#050805"/>
-    <circle cx="252" cy="117" r="3.6" fill="#050805"/>
-    <circle cx="238" cy="116.2" r="1.2" fill="#d6ffd6"/>
-    <circle cx="252" cy="116.2" r="1.2" fill="#d6ffd6"/>
-    <!-- língua -->
-    <path class="tongue" d="M245 103 L245 90 M245 90 L240 83 M245 90 L250 83" fill="none" stroke="#ff4d6d" stroke-width="2" stroke-linecap="round"/>
+  <!-- cobra (ASCII gerado a partir da foto) -->
+  <g fill="url(#snakeg)" font-size="7.57" style="white-space:pre" filter="url(#glowsm)">
+    <text class="asc" x="48.32" y="99.30" xml:space="preserve" textLength="72.96" lengthAdjust="spacing" style="animation-delay:0.60s">  ++++****#*+**+</text>
+    <text class="asc" x="48.32" y="108.42" xml:space="preserve" textLength="95.76" lengthAdjust="spacing" style="animation-delay:0.65s">+-=::-=-.:++**--:-**+</text>
+    <text class="asc" x="48.32" y="117.54" xml:space="preserve" textLength="109.44" lengthAdjust="spacing" style="animation-delay:0.70s">+:=:::=+=-=++#*-==++*%##</text>
+    <text class="asc" x="48.32" y="126.66" xml:space="preserve" textLength="127.68" lengthAdjust="spacing" style="animation-delay:0.75s">=.....:-+==--*++##*+**##%%#*</text>
+    <text class="asc" x="48.32" y="135.78" xml:space="preserve" textLength="168.72" lengthAdjust="spacing" style="animation-delay:0.80s"> ...    *- ..::====+*++=+++=+==+=++++</text>
+    <text class="asc" x="48.32" y="144.90" xml:space="preserve" textLength="191.52" lengthAdjust="spacing" style="animation-delay:0.85s"> -=- .. =-   ..   .:-+**+*==#**+--::::--=+</text>
+    <text class="asc" x="48.32" y="154.02" xml:space="preserve" textLength="205.20" lengthAdjust="spacing" style="animation-delay:0.90s">   +.    -    ...   =++**%#++==-:::..:.::.:=+</text>
+    <text class="asc" x="48.32" y="163.14" xml:space="preserve" textLength="214.32" lengthAdjust="spacing" style="animation-delay:0.95s">     :.        ..   :@#*+***+=-:::::::::::...:=</text>
+    <text class="asc" x="48.32" y="172.26" xml:space="preserve" textLength="223.44" lengthAdjust="spacing" style="animation-delay:1.00s">       .             *@@%=%#+--------::::::-:. .-</text>
+    <text class="asc" x="48.32" y="181.38" xml:space="preserve" textLength="232.56" lengthAdjust="spacing" style="animation-delay:1.05s">        .            :@@%*@+-------------::::-:. .:</text>
+    <text class="asc" x="48.32" y="190.50" xml:space="preserve" textLength="241.68" lengthAdjust="spacing" style="animation-delay:1.10s">         .            %@@%@+--------------:..:---...-</text>
+    <text class="asc" x="48.32" y="199.62" xml:space="preserve" textLength="246.24" lengthAdjust="spacing" style="animation-delay:1.15s">         =.  .        *@@@#----------------:....:--:.:</text>
+    <text class="asc" x="48.32" y="208.74" xml:space="preserve" textLength="250.80" lengthAdjust="spacing" style="animation-delay:1.20s">             .:..:. ..-@@#-==---------:::::::...:--::.-</text>
+    <text class="asc" x="48.32" y="217.86" xml:space="preserve" textLength="250.80" lengthAdjust="spacing" style="animation-delay:1.25s">           - .--=**:-.+@%-==--------:::::::::::---::::.</text>
+    <text class="asc" x="48.32" y="226.98" xml:space="preserve" textLength="250.80" lengthAdjust="spacing" style="animation-delay:1.30s">           +::=++%%=-=@%-------:::--:::::::::::-----::.</text>
+    <text class="asc" x="48.32" y="236.10" xml:space="preserve" textLength="255.36" lengthAdjust="spacing" style="animation-delay:1.35s">           *--=-:++==@#:-::-----------:::-:::.  :---::.-</text>
+    <text class="asc" x="48.32" y="245.22" xml:space="preserve" textLength="255.36" lengthAdjust="spacing" style="animation-delay:1.40s">            =-==:-=+%#:--...------------::::::. ..:-::.-</text>
+    <text class="asc" x="48.32" y="254.34" xml:space="preserve" textLength="255.36" lengthAdjust="spacing" style="animation-delay:1.45s">            <tspan class="r">#</tspan>==<tspan class="r">*=</tspan>*#@  ::::..:------------::::::.. .--:.-</text>
+    <text class="asc" x="48.32" y="263.46" xml:space="preserve" textLength="255.36" lengthAdjust="spacing" style="animation-delay:1.50s">             *<tspan class="r">*+</tspan>*##     :::-.:------------:::::. .:--:.-</text>
+    <text class="asc" x="48.32" y="272.58" xml:space="preserve" textLength="250.80" lengthAdjust="spacing" style="animation-delay:1.55s">             +<tspan class="r">+</tspan>           ::---=----------------:----:.</text>
+    <text class="asc" x="48.32" y="281.70" xml:space="preserve" textLength="250.80" lengthAdjust="spacing" style="animation-delay:1.60s">             +<tspan class="r">+</tspan>             :--======----------------:.</text>
+    <text class="asc" x="48.32" y="290.82" xml:space="preserve" textLength="250.80" lengthAdjust="spacing" style="animation-delay:1.65s">             +<tspan class="r">+</tspan>              :::================------:</text>
+    <text class="asc" x="48.32" y="299.94" xml:space="preserve" textLength="250.80" lengthAdjust="spacing" style="animation-delay:1.70s">              +               :.:=+=============---::::</text>
+    <text class="asc" x="48.32" y="309.06" xml:space="preserve" textLength="250.80" lengthAdjust="spacing" style="animation-delay:1.75s">                               :.:+============---:.:.=</text>
+    <text class="asc" x="48.32" y="318.18" xml:space="preserve" textLength="246.24" lengthAdjust="spacing" style="animation-delay:1.80s">                                .:=============--:..:.</text>
   </g>
 
   <!-- neofetch -->
