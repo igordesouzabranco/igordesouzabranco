@@ -122,6 +122,6 @@
     <rect x="142" y="452" width="9" height="16" fill="#2bff2b">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
-    <text x="170" y="466" class="d s"># atualizado em 24/11/2026</text>
+    <text x="170" y="466" class="d s"># atualizado em 25/11/2026</text>
   </g>
 </svg>
